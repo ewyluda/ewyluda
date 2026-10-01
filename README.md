@@ -4,7 +4,7 @@
 
 I'm a Sr. Power Platform & AI Developer at Microsoft (Cloud Operations + Innovation), building the cost-reporting, controls, and automation layer for the global data center capital program. Behind the tooling are 11+ years of delivering physical infrastructure:
 
-- Led a 15-person equipment supply chain team on a 1+ GW hyperscale data center portfolio (Turner & Townsend, embedded with Google Data Centers)
+- Managed a 6-person Turner & Townsend consulting team embedded with Google Data Centers' equipment supply chain, on a 1+ GW hyperscale data center portfolio
 - Did Primavera P6 schedule forensics for construction disputes at Ankura
 - Delivered a $200M NYC transit hub on schedule and $17M under forecast
 
